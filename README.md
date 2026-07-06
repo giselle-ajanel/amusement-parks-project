@@ -6,8 +6,6 @@ I built this terminal-based data analyzer from scratch using **Python** to proce
 
 The project is strictly modular, splitting responsibilities cleanly across three separate files to make the application reliable, easy to read, and maintainable.
 
----
-
 ### Tech & Design
 
 * **Modular Python Architecture:** Engineered using a strict separation of concerns across a 3-tier architecture: `main_ajanel_giselle.py` (runtime workflow), `helper.py` (data ingestion and computational logic), and `user_io.py` (terminal display and user interface layer).
